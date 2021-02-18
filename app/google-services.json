@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "733604610118",
+    "project_id": "recc-21602",
+    "storage_bucket": "recc-21602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733604610118:android:cc3061a730b67703830a47",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eP0gnHgGzhD_s1o09p3QSTIiQYS38ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733604610118:android:4c33a3eb651497d4830a47",
+        "android_client_info": {
+          "package_name": "com.example.android.loginn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eP0gnHgGzhD_s1o09p3QSTIiQYS38ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733604610118:android:efb26b994adc06b3830a47",
+        "android_client_info": {
+          "package_name": "com.instamobile.mps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eP0gnHgGzhD_s1o09p3QSTIiQYS38ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733604610118:android:95f057a8655ee09c830a47",
+        "android_client_info": {
+          "package_name": "spartons.com.firebasesocialauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eP0gnHgGzhD_s1o09p3QSTIiQYS38ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733604610118-en6m955hifja727i80tt5b6eh1e7f7hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
